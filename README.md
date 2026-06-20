@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yuvraj%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35"/>
 
-<h1 align="center">⚡ Welcome to YuvrajSingh-midt664's GitHub ⚡</h1>
+<h1 align="center">⚡ Welcome to YuvrajSingh-mist664
+'s GitHub ⚡</h1>
 
 <h3 align="center">
 🚀 Python Developer | 🤖 Future Machine Learning Engineer | 🔐 Cybersecurity Explorer
@@ -21,7 +22,8 @@
 <td>
 
 👤 **Name:** Yuvraj Singh  
-🌐 **GitHub:** YuvrajSingh-midt664    
+🌐 **GitHub:** YuvrajSingh-mist664
+     
 🇮🇳 **Country:** India  
 
 💻 **Role:** Student Developer  
@@ -82,9 +84,11 @@ More AI, software and development projects coming soon 🚀
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-midt664&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-mist664
+&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajSingh-midt664&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajSingh-mist664
+&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,7 +98,8 @@ More AI, software and development projects coming soon 🚀
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YuvrajSingh-midt664&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YuvrajSingh-mist664
+&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -104,7 +109,8 @@ More AI, software and development projects coming soon 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YuvrajSingh-midt664&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YuvrajSingh-mist664
+&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -112,13 +118,16 @@ More AI, software and development projects coming soon 🚀
 
 # 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuvrajSingh-midt664&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuvrajSingh-mist664
+&theme=tokyo-night&hide_border=true"/>
 
 ---
 
 # 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YuvrajSingh-midt664/YuvrajSingh-midt664/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/YuvrajSingh-mist664
+/YuvrajSingh-mist664
+/output/github-contribution-grid-snake.svg"/>
 
 ---
 
@@ -144,7 +153,8 @@ More AI, software and development projects coming soon 🚀
 
 # 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=YuvrajSingh-midt664&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=YuvrajSingh-mist664
+&style=for-the-badge&color=blueviolet"/>
 
 ---
 
