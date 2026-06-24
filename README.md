@@ -777,7 +777,7 @@ Technology
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00F5FF,100:7E22CE&text=REPOSITORY%20SHOWCASE%20PART%201&fontSize=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00F5FF,100:7E22CE&text=REPOSITORY%20SHOWCASE%20PART%201&fontSize=50"/>
 </p>
 
 <table>
@@ -851,7 +851,7 @@ Projects
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF6B00,100:FFD700&text=REPOSITORY%20SHOWCASE%20PART%202&fontSize=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF6B00,100:FFD700&text=REPOSITORY%20SHOWCASE%20PART%202&fontSize=50"/>
 </p>
 
 <table>
@@ -893,7 +893,7 @@ Growth
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0000,100:8B0000&text=MISSION%20ROADMAP%20PART%201&fontSize=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0000,100:8B0000&text=MISSION%20ROADMAP%20PART%201&fontSize=50"/>
 </p>
 
 PYTHON
@@ -1022,7 +1022,7 @@ Grow Skills
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=timeGradient&text=DEVELOPER%20OPERATING%20SYSTEM&fontSize=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=timeGradient&text=DEVELOPER%20OPERATING%20SYSTEM&fontSize=45"/>
 </p>
 
 BOOTING SYSTEM..............100%
@@ -1096,7 +1096,7 @@ Innovator
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00F5FF,50:2563EB,100:7E22CE&text=FUTURE%20VISION%20PART%202&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00F5FF,50:2563EB,100:7E22CE&text=FUTURE%20VISION%20PART%202&fontSize=75"/>
 </p>
 
 <table>
@@ -1146,7 +1146,7 @@ Impact
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF6B00,100:FFD700&text=GITHUB%20ANALYTICS%20PART%201&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF6B00,100:FFD700&text=GITHUB%20ANALYTICS%20PART%201&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1160,7 +1160,7 @@ Impact
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FFFF,100:FF00FF&text=GITHUB%20ANALYTICS%20PART%202&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FFFF,100:FF00FF&text=GITHUB%20ANALYTICS%20PART%202&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1172,7 +1172,7 @@ Impact
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FF99,100:003300&text=TROPHY%20CHAMBER%20PART%201&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FF99,100:003300&text=TROPHY%20CHAMBER%20PART%201&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1184,7 +1184,7 @@ Impact
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:001F3F,100:00FFFF&text=ACTIVITY%20MATRIX%20PART%201&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:001F3F,100:00FFFF&text=ACTIVITY%20MATRIX%20PART%201&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1196,7 +1196,7 @@ Impact
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0000,100:8B0000&text=DEVELOPER%20VALUES%20PART%201&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0000,100:8B0000&text=DEVELOPER%20VALUES%20PART%201&fontSize=60"/>
 </p>
 
 <div align="center">
@@ -1222,7 +1222,7 @@ Impact
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0080,100:7928CA&text=COMMAND%20CENTER%20PART%201&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0080,100:7928CA&text=COMMAND%20CENTER%20PART%201&fontSize=60"/>
 </p>
 
 AI CORE................ONLINE
@@ -1250,7 +1250,7 @@ STATUS.................OPTIMAL
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,20:2563EB,40:7E22CE,60:FF00FF,80:00F5FF,100:2563EB&text=CONTRIBUTION%20KINGDOM&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00F5FF,20:2563EB,40:7E22CE,60:FF00FF,80:00F5FF,100:2563EB&text=CONTRIBUTION%20KINGDOM&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1262,7 +1262,7 @@ STATUS.................OPTIMAL
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FF99,100:003300&text=SOCIAL%20COMMAND%20CENTER&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FF99,100:003300&text=SOCIAL%20COMMAND%20CENTER&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1290,7 +1290,7 @@ STATUS.................OPTIMAL
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF6B00,100:FFD700&text=GAMING%20HEADQUARTERS&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF6B00,100:FFD700&text=GAMING%20HEADQUARTERS&fontSize=60"/>
 </p>
 
 <table>
@@ -1332,7 +1332,7 @@ Growth
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0080,100:7928CA&text=RANDOM%20DEVELOPER%20QUOTES&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:FF0080,100:7928CA&text=RANDOM%20DEVELOPER%20QUOTES&fontSize=55"/>
 </p>
 
 <div align="center">
@@ -1358,7 +1358,7 @@ Growth
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=timeGradient&text=LEGENDARY%20STATUS%20BOARD&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=timeGradient&text=LEGENDARY%20STATUS%20BOARD&fontSize=60"/>
 </p>
 
 NAME....................YUVRAJ SINGH
@@ -1380,7 +1380,7 @@ POWER LEVEL.............RISING
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FFFF,100:FF00FF&text=VISITOR%20TERMINAL&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:00FFFF,100:FF00FF&text=VISITOR%20TERMINAL&fontSize=60"/>
 </p>
 
 <p align="center">
@@ -1392,7 +1392,7 @@ POWER LEVEL.............RISING
 <br>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:001F3F,100:00FFFF&text=THANK%20YOU%20FOR%20VISITING&fontSize=95"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=0:001F3F,100:00FFFF&text=THANK%20YOU%20FOR%20VISITING&fontSize=60"/>
 </p>
 
 <div align="center">
